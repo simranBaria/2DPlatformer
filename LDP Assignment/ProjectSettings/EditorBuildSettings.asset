@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/LDP/Main.unity
     guid: 04df639421d16fd44beae7ee2b6275c2
   - enabled: 1
-    path: Assets/LDP/content/Scenes/Iteration2.unity
-    guid: c4c22d51cabf5ce4096555161cca5e4a
+    path: Assets/LDP/Template Level.unity
+    guid: 4f9986ffb4fa0e24e9713688c0def2bb
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 3b7a3995f6b70124d97615871329bb38,
       type: 2}
